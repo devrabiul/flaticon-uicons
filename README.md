@@ -1,10 +1,3 @@
-Sure! Here’s a simple and clear `README.md` file for your HTML page that introduces UIcons 2.6.0 and explains how to use it:
-
----
-
-### `README.md`
-
-```markdown
 # UIcons 2.6.0 - Flaticon Icon Set Integration
 
 This project is a simple HTML demo page to showcase and use the **UIcons 2.6.0** icon set by Flaticon.
